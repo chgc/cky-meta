@@ -2,7 +2,11 @@
     "name": "cky-meta",
     "version": "1.0.1",
     "license": "MIT",
-    "author": {
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/chgc/cky-meta"
+    },
+    "author":{
         "name": "cky"
     },
     "scripts": {
